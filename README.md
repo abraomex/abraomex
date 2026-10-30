@@ -71,11 +71,15 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 🐍 My Contribution Snake
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abraomex&theme=tokyo-night&hide_border=true&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abraomex/abraomex/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abraomex/abraomex/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/abraomex/abraomex/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 </div>
 
